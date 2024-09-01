@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+div
+{
+
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+label {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+    margin-top: 20px;
+}
